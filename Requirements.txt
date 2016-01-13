@@ -11,3 +11,14 @@ REQUIREMENTS
 -> Car search according to the type of the car and according to the company
 -> car sort according to the price.
 -> car parts search
+-> Add to cart
+-> Cart Management
+-> Payment gateway
+-> Test Drive
+-> Notify Customer of their orders via email 
+-> Registration/login for suppliers
+-> Administrator can view suppliers list
+-> Administrator can notify the supplier about stock unavailability.
+-> Customers can post and view feedback.
+-> Recommendation System 
+-> New Arrivals
