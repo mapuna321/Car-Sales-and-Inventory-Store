@@ -1,0 +1,13 @@
+                                                    CAR SALES AND INVENTORY STORE
+
+REQUIREMENTS
+
+-> User management
+-> Log in using facebook or google account
+-> Administrator login
+-> Administrator manages the stocks can add or delete the entries.
+-> Verify email_id format
+-> Product Management
+-> Car search according to the type of the car and according to the company
+-> car sort according to the price.
+-> car parts search
